@@ -1,0 +1,9 @@
+matplotlib
+numpy
+openai
+pandas
+python-dotenv
+requests
+tiktoken
+torch
+transformers
