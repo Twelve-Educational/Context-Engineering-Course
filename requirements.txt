@@ -1,9 +1,16 @@
 matplotlib
+mplsoccer
 numpy
 openai
 pandas
+plotly
+nbformat
 python-dotenv
+shap
 requests
+scikit-learn
+statsmodels
+tensorflow
 tiktoken
 torch
 transformers
